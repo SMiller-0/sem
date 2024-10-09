@@ -1,3 +1,3 @@
 # Software Engineering Methods
 
-1. Just a test. Will remove later.
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/SMiller-0/sem/main.yml?branch=master)
